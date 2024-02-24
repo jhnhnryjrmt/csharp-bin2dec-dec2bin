@@ -1,0 +1,14 @@
+C:\Users\lenovo\Documents\bin2dec-dec2bin\bin\Debug\net8.0\bin2dec-dec2bin.exe
+C:\Users\lenovo\Documents\bin2dec-dec2bin\bin\Debug\net8.0\bin2dec-dec2bin.deps.json
+C:\Users\lenovo\Documents\bin2dec-dec2bin\bin\Debug\net8.0\bin2dec-dec2bin.runtimeconfig.json
+C:\Users\lenovo\Documents\bin2dec-dec2bin\bin\Debug\net8.0\bin2dec-dec2bin.dll
+C:\Users\lenovo\Documents\bin2dec-dec2bin\bin\Debug\net8.0\bin2dec-dec2bin.pdb
+C:\Users\lenovo\Documents\bin2dec-dec2bin\obj\Debug\net8.0\bin2dec-dec2bin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Documents\bin2dec-dec2bin\obj\Debug\net8.0\bin2dec-dec2bin.AssemblyInfoInputs.cache
+C:\Users\lenovo\Documents\bin2dec-dec2bin\obj\Debug\net8.0\bin2dec-dec2bin.AssemblyInfo.cs
+C:\Users\lenovo\Documents\bin2dec-dec2bin\obj\Debug\net8.0\bin2dec-dec2bin.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\bin2dec-dec2bin\obj\Debug\net8.0\bin2dec-dec2bin.dll
+C:\Users\lenovo\Documents\bin2dec-dec2bin\obj\Debug\net8.0\refint\bin2dec-dec2bin.dll
+C:\Users\lenovo\Documents\bin2dec-dec2bin\obj\Debug\net8.0\bin2dec-dec2bin.pdb
+C:\Users\lenovo\Documents\bin2dec-dec2bin\obj\Debug\net8.0\bin2dec-dec2bin.genruntimeconfig.cache
+C:\Users\lenovo\Documents\bin2dec-dec2bin\obj\Debug\net8.0\ref\bin2dec-dec2bin.dll
